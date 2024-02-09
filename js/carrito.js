@@ -1,6 +1,6 @@
 const productosEnCarrito = JSON.parse(localStorage.getItem("productos-en-carrito"));
 
-// hora del video 1:53:33    https://www.youtube.com/watch?v=RiB4mV3VnRY
+// hora del video 1:53:33.    https://www.youtube.com/watch?v=RiB4mV3VnRY
 
 const contenedorCarritoVacio = document.querySelector("#carrito-vacio");
 const contenedorCarritoProductos = document.querySelector("#carrito-productos");
